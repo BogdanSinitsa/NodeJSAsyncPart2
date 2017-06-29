@@ -15,4 +15,6 @@ require("babel-register");
 // require('./10_generator_plus_promise');
 // require('./11_generator_plus_promise_improved');
 // require('./12_generator_plus_promise_co_lib');
-require('./13_async_await');
+// require('./13_async_await');
+// require('./14_async_await_users_api');
+require('./15_co_users_api');
